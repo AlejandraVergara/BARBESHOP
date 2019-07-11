@@ -1,0 +1,33 @@
+.header {
+    background-image: url("../assets/images/post-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45rem;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+  
+  .header__title {
+    font-size: 70px;
+    font-style: italic;
+    font-weight: bold;
+    color: #FFF;
+  }
+  
+  .naomi h1 {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .naomi a {
+    font-size: 18px;
+    font-weight: regular;
+    color: #ECBCBA;
+  }
+
+  .espacio__foto {
+      width: 15vw;
+  }

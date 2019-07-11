@@ -1,0 +1,24 @@
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'vendors/bootstrap-4.3.1/bootstrap';
+
+@import 'base/base';
+@import 'base/reset';
+@import 'base/tipography';
+
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/forms';
+@import 'layout/main-section';
+
+@import 'components/button';
+@import 'components/inputs';
+
+@import 'pages/home';
+@import 'pages/contact';
+
+@import 'themes/theme';
+@import 'themes/admin';
+
+@import 'pages/sections';
